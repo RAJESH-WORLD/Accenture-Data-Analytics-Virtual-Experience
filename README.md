@@ -8,11 +8,10 @@ In this internship, I work as a data analyst with a talented team. After being g
 ## Project Overview
 Accenture Data Analytics is collaborating with Forage on a virtual experience project. The purpose was to assist a company called "Social Buzz" in leveraging their vast amount of data. In recent years, Social Buzz has grown to become known as a global unicorn firm. Accenture has launched a team to assist them in addressing three major challenges.
 
-●  Audit of Social Buzz big data practice
+●  Audit of Social Buzz big data practice.
+● Implimentation of an IPO.
+● Analysis of top 5 pupular categories content.
 
-● Implimentation of an IPO
-
-● Analysis of top 5 pupular categories content
 ## Task 1: Project Understanding
 ● Read the project brief, understood the client's and their business problem at hand.
 
