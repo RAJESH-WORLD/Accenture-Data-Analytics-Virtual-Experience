@@ -10,14 +10,14 @@ Accenture Data Analytics is collaborating with Forage on a virtual experience pr
 
 ●  Audit of Social Buzz big data practice.
 
-● Implimentation of an IPO.
+● Implementation of an IPO.
 
-● Analysis of top 5 pupular categories content.
+● Analysis of top 5 popular categories content.
 
 ## Task 1: Project Understanding
 ● Read the project brief, understood the client's and their business problem at hand.
 
-● Identified requirements that need to be deliverd for the project.
+● Identified requirements that need to be delivered for the project.
 
 ● Identified the task I should focus on as a Data Analyst.
 
@@ -29,7 +29,7 @@ Skills Gained : Teamwork, Strategy, Project Planning.
 
 ● Create a final data collection with all the columns you will require to finish the task using this information.
 
-Skills Gained: Data understanding, perform data cleaning and data modeling, and finally create valuable insights from the model
+Skills Gained: Data understanding, perform data cleaning and data modelling, and finally create valuable insights from the model
 ## Task 3: Data Visualization & Storytelling
 ● Use your data set to create insightful visualizations to address the requirements of the project.
 
